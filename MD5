@@ -1,0 +1,8 @@
+bca976a2121d0a43bce5d9fec0618908 *DESCRIPTION
+d89681ba91724d26623f7aca59b2b915 *NAMESPACE
+f1b7694fe71029a44788e2032ae4828b *R/perform.hotspot.tests.R
+f5eee26418582d2cea575f12fffd53e8 *build/partial.rdb
+165f41ef57a2f7baea1895f93ebcd7d6 *data/hotspot.data.rda
+77abc0b585748bf3fe2f2a74869e2cfa *man/hotspot-package.Rd
+2e52e74fc5e4ff54dc6c4eaa1563621e *man/hotspot.data.Rd
+59291db2f2a3e3c4cefe4aea5c1fbade *man/perform.hotspot.tests.Rd
